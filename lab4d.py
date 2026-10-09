@@ -2,7 +2,7 @@
 
 #!/usr/bin/env python3
 # Author: Thien Hung Pham
-# Date:
+# Date: 10/09/2026
 # Purpose: Create the complete calculator function using default parameters and positional parameters
 # Usage: ./lab4d.py
 

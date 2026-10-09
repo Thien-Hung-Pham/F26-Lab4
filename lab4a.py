@@ -2,7 +2,7 @@
 
 #!/usr/bin/env python3
 # Author: Thien Hung Pham
-# Date:
+# Date: 10/09/2026
 # Purpose: Create Simple Functions.
 # Usage: ./lab4a.py
 
@@ -16,8 +16,8 @@
 def is_even(numbers):
 	"""Return True if the list contains an even number; otherwise, return False."""
 	for number in numbers:
-		if number % 2 == 0:
-            return True
+		if number % 2 == 0: # Check if the number is even using modulus operator
+			return True
 	return False
 
 # TO DO 3: Call the function `is_even`.
